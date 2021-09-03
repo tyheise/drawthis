@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.one_hundo {
+  height:1000px; width:1000px;
+}
+
+.drawing {
+  border:1px solid black;
+}
